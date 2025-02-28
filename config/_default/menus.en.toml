@@ -25,6 +25,11 @@
   pageRef = "resources"
   weight = 50
 
+[[main]]
+  name = "Join"
+  pageRef = "join"
+  weight = 70
+
 #[[main]]
 #  name = "Blog"
 #  url = "https://hack.newhaven.edu"

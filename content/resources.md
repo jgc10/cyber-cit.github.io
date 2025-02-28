@@ -1,7 +1,8 @@
 +++
 title = 'Resources'
 +++
-## General:
+
+## General
 
 - [TryHackMe](https://tryhackme.com/) --- cybersecurity platform focused on guided learning
 - [OverTheWire](https://overthewire.org/wargames/) --- linear-style challenges

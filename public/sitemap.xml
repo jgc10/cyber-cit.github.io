@@ -33,6 +33,12 @@
   
     
       <url>
+            <loc>http://localhost:1313/join/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/resources/</loc>
           </url>
     
