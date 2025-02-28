@@ -1,10 +1,27 @@
 +++
 title = 'Team'
+[params]
+    showTableOfContents = false
 +++
 
-The cyber@CIT hacking team competes in both red and blue team competitions that provide students with hands-on experience in real-world cyber operations. Students interested in competing with the team should regularly attend the club meetings or contact the club president for guidance on how to practice for the competition they are interested in. Joining the team is highly recommended, as competiting is the most effective (and fun) method for improving your cybersecurity skills and obtaining experience sought after for internships, jobs, and scholarships.
+The cyber@CIT hacking team competes in both red and blue team competitions that provide students with hands-on experience in real-world cyber operations. Competing with the team is the most effective (and fun) method for improving your cybersecurity skills and obtaining experience sought after for internships, jobs, and scholarships.
 
 The University of New Haven is also the host of the CPTC New England Regional.
+
+{{< alert "circle-info"  >}} Interested in joining the team? Check out <a href="/join">how to get involved</a>.{{< /alert >}}
+{{< rawhtml >}}<br>{{< /rawhtml >}}
+
+# Red Team
+
+The **Collegiate Penetration Testing Competition (CPTC)** is an annual offense-focused competition that holds a regional round in November and a Global round in January. Competitors act as penetration testers hired to conduct a security assessment on the client organization, exploiting vulnerabilities in the network and obtaining unauthorized access along the way.
+
+# Blue Team
+
+Blue team competitions force teams to defend their networks against persistent attacks from a red team. Teams earn points for maintaining their services and exterminating attackers from their systems. Two popular blue team competitions, the **Collegiate Cyber Defense Competition (CCDC)** and **Information Security Talent Search (ISTS)**, both take place during the spring semester.
+
+# CTF
+
+Capture the Flag (CTF) competitions involve solving smaller, individual challenges that challenge competitors to use their exploitation, forensics, reverse engineering, or cryptography skills. Teams earn points with each challenge solved and the team with the most points at the end is the winner. There are many CTF competitions, happening almost every weekend.
 
 # Competition Placements
 
