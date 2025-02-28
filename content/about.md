@@ -1,7 +1,6 @@
 +++
 title = 'About'
 +++
-***
 
 The University of New Haven’s cybersecurity club, cyber@CIT, is a student ran organization dedicated sharing knowledge related to cybersecurity. The club meets weekly to allow students to engage in the practical application of cybersecurity concepts.
 

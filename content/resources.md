@@ -1,8 +1,6 @@
 +++
 title = 'Resources'
 +++
-***
-
 ## General:
 
 - [TryHackMe](https://tryhackme.com/) --- cybersecurity platform focused on guided learning

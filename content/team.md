@@ -1,7 +1,6 @@
 +++
 title = 'Team'
 +++
-***
 
 # Competition Placements
 
